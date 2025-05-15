@@ -23,7 +23,7 @@ namespace l1
         private ListBox reservationsListBox;
         public ReservationForm()
         {
-            this.Text = "Управление резервированием";
+            this.Text = "Управление резервированием улучшенное";
             this.Width = 600;
             this.Height = 500;
             customerNameTextBox = new TextBox
